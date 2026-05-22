@@ -344,6 +344,13 @@ details p {
   font-weight: 700;
 }
 
+.official-site {
+  margin: 8px 0 10px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 800;
+}
+
 .copyright {
   font-size: 13px;
 }
